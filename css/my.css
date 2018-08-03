@@ -1,0 +1,75 @@
+body {
+    margin:0;
+    padding:0;
+    background:#DCDCDC;
+    font-family:calibri;
+}
+p{
+    font:16px calibri;
+    padding:0;
+    margin:0;
+}
+.head{
+    text-align: center;
+    margin:0 auto;
+    width:80%;
+    float:center;
+}
+.contain{
+    margin:20px auto;
+    width:37%;
+}
+.boxed{
+    background-color: black;
+    padding:20px;
+    width:70px;
+    height:70px;
+    border:none;
+    outline:none;
+    align-content: center;
+
+}
+.logo{
+    color:#fff;
+    font:17px bold calibri;
+    margin:20px auto;
+}
+form{
+    margin:25px auto;
+    width:100%;
+}
+form input{
+    padding:15px;
+    margin:7px;
+    width:100%;
+    border:1px solid #eee;
+    border-radius:none;
+}
+table td tr{
+    outline:none;
+    padding:0;
+    margin:0;
+}
+#sign{
+    background-color:#20B2AA;
+    color:#fff;
+    padding:20px;
+}
+form .top #naming{
+    margin:3px 7px;
+}
+.h1
+{
+line-height: 400px;
+text-align: center;
+vertical-align: middle;
+
+}
+
+.flex-container{
+-webkit-box-flex:center;
+align-items: center;
+}
+input{
+    display: block;
+}
